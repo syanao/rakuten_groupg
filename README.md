@@ -25,5 +25,6 @@ Team members & Roles:
 
 App information
 ---------------
-[Heroku](http://ancient-sands-9552.herokuapp.com/)
-[Travis](https://travis-ci.org/syanao/rakuten_groupg)
+ * [Heroku](http://ancient-sands-9552.herokuapp.com/)
+
+ * [Travis](https://travis-ci.org/syanao/rakuten_groupg)

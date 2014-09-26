@@ -5,12 +5,12 @@ require 'rakuten_web_service'
 #参考: https://github.com/k2works/sinatra_rakuten_api
 
 require 'rubygems'
-require 'json'
-require 'pp'
+#require 'json'
+#require 'pp'
 
 
 get '/' do
-  puts "<h1>No No No</h1>"
+  #puts "<h1>No No No</h1>"
   RakutenWebService.configuration do |c|
     c.application_id = ENV["APPID"]
     c.affiliate_id = ENV["AFID"]

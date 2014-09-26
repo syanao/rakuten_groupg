@@ -1,0 +1,9 @@
+<h2>Result</h2>
+<% @jresponse["hotels"].each do |hotels| %>
+<p>Name: <%= hotels["hotel"][0]["hotelBasicInfo"]["hotelName"] %></p>
+<p><%= hotels["hotel"][0]["hotelBasicInfo"]["hotelNo"] %> <p/>
+<form method="post" action="/detail">
+  <input type="hidden" name="hotelNo" value="<% hotels["hotel"][0]["hotelBasicInfo"]["hotelNo"] %>" >
+  <input type="submit" value="詳細">
+</form>
+<% end %>

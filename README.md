@@ -27,4 +27,4 @@ App information
 ---------------
  * [Heroku](http://ancient-sands-9552.herokuapp.com/)
 
- * [Travis](https://travis-ci.org/syanao/rakuten_groupg)
+ * [Travis](https://travis-ci.org/RAKUTN-AIIT-enpit-practice/rakuten_groupg)

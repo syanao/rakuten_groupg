@@ -22,3 +22,8 @@ Team members & Roles:
  [not001praween001](https://github.com/not001praween001): API data taking method & Usage & Ruby programming.
  
  [kkpb](https://github.com/kkpb): Ruby programming.
+
+App information
+---------------
+[Heroku](http://ancient-sands-9552.herokuapp.com/)
+[Travis](https://travis-ci.org/syanao/rakuten_groupg)

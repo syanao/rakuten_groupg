@@ -1,0 +1,18 @@
+<!--参考: https://github.com/k2works/sinatra_rakuten_api-->
+<div class="starter-template">
+  <h1>The ranking of products in which gentleman favorited TOP 30</h1>
+    <table class="table table-hover">
+      <tr>
+        <th>Product name</th>
+        <th>Prices</th>
+      </tr>
+      <% @rankings.each do |ranking| %>            
+      <tr>            
+        <td><%= ranking.name %></td>
+        <td><%= ranking.price %></td>
+      </tr>
+      <% end %>                    
+    </table>          
+</div>
+
+

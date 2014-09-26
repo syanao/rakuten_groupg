@@ -21,4 +21,4 @@ Team members & Roles:
  
  [not001praween001](https://github.com/not001praween001): API data taking method & Usage & Ruby programming.
  
- [kkpb](https://github.com/kkpb): Ruby programming & Layout design + Implementation.
+ [kkpb](https://github.com/kkpb): Ruby programming.

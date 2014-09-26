@@ -5,8 +5,8 @@ require 'rakuten_web_service'
 #参考: https://github.com/k2works/sinatra_rakuten_api
 
 require 'rubygems'
-#require 'json'
-#require 'pp'
+require 'json'
+require 'pp'
 
 
 get '/' do

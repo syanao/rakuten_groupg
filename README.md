@@ -15,10 +15,10 @@ To do list
 
 Team members & Roles:
 --------------------
- [syanao](https://github.com/syanao): Travis tester & App deploy & Ruby programming
+ [syanao](https://github.com/syanao): HTML5 Designer & Travis tester & App deploy & Ruby programming
  
- [Olivia-tou](https://github.com/Olivia-tou): Margign & Page design & Ruby programming 
+ [Olivia-tou](https://github.com/Olivia-tou): Layout design + Implementation & Ruby programming 
  
  [not001praween001](https://github.com/not001praween001): API data taking method & Usage & Ruby programming.
  
- [kkpb](https://github.com/kkpb): Ruby programming & Page Design.
+ [kkpb](https://github.com/kkpb): Ruby programming & Layout design + Implementation.

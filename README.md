@@ -25,6 +25,6 @@ Team members & Roles:
 
 App information
 ---------------
- * [Heroku](http://ancient-sands-9552.herokuapp.com/)
+ * [Heroku](http://testrakutenenpit.heroku.com)
 
  * [Travis](https://travis-ci.org/RAKUTN-AIIT-enpit-practice/rakuten_groupg)

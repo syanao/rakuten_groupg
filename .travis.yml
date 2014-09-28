@@ -13,6 +13,6 @@ deploy:
   provider: heroku
   api_key:
     secure: MdcDLK+uWvSNZaDfl+vSoTixRwURynVubBu8PwEqrhwp2wv3xUHvVt41mYDHbE1YduOYpJJ0E1p/ZGRe+CQ5pcBI8317MKnU8eFjVONH6mSZZFTwpsB7by7JC4mQ2oeyQxUDoWgIwPmnIMcmXwPZ0ikLd+vSR9g5wJIoylSlQAs=
-  app: rakuten_groupg
+  app: ncient-sands-9552
   on:
     repo: RAKUTN-AIIT-enpit-practice/rakuten_groupg

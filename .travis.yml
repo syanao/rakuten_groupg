@@ -5,7 +5,14 @@ rvm:
 - jruby-19mode
 - rbx-2
 addons:
-  postgresql: "9.3"
+  postgresql: '9.3'
 before_script:
-  - psql -c 'create database travis_ci_test;' -U postgres
-  - cp config/database.yml.travis config/database.yml
+- psql -c 'create database travis_ci_test;' -U postgres
+- cp config/database.yml.travis config/database.yml
+deploy:
+  provider: heroku
+  api_key:
+    secure: MdcDLK+uWvSNZaDfl+vSoTixRwURynVubBu8PwEqrhwp2wv3xUHvVt41mYDHbE1YduOYpJJ0E1p/ZGRe+CQ5pcBI8317MKnU8eFjVONH6mSZZFTwpsB7by7JC4mQ2oeyQxUDoWgIwPmnIMcmXwPZ0ikLd+vSR9g5wJIoylSlQAs=
+  app: rakuten_groupg
+  on:
+    repo: RAKUTN-AIIT-enpit-practice/rakuten_groupg
